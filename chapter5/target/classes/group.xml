@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="groupclass">
+    <test name="runstudentteacher">
+        <classes>
+            <class  name="com.office.lianlingfei.group.GroupClass1"/>
+            <class  name="com.office.lianlingfei.group.GroupClass2"/>
+            <class  name="com.office.lianlingfei.group.GroupClass3"/>
+        </classes>
+    </test>
+    <test name="onlyrunstudent">
+        <groups>
+            <run>
+                <include name="student"/>
+            </run>
+        </groups>
+        <classes>
+            <class  name="com.office.lianlingfei.group.GroupClass1"/>
+            <class  name="com.office.lianlingfei.group.GroupClass2"/>
+            <class  name="com.office.lianlingfei.group.GroupClass3"/>
+        </classes>
+    </test>
+</suite>

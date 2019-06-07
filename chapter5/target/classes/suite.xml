@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="test">
+    <test name="login">
+    <classes>
+        <class  name="com.office.lianlingfei.suit.SuiteConfig"/>
+        <class  name="com.office.lianlingfei.suit.LonginTest"/>
+    </classes>>
+    </test>
+    <test name="pay">
+        <classes>
+            <class  name="com.office.lianlingfei.suit.SuiteConfig"/>
+            <class  name="com.office.lianlingfei.suit.PayTest"/>
+        </classes>>
+    </test>
+</suite>
