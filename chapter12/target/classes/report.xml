@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="post请求报告">
+    <test name=" 我的方法">
+        <classes>
+            <class name="com.course.httpclient.cookies.PostWithCookie">
+                <method>
+                    <include name="getUrl"/>
+                    <include name="getCookie"/>
+                    <include name="withCookiePost"/>
+                </method>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.course.httpclient.cookies.ReportListener1"/>
+    </listeners>
+</suite>

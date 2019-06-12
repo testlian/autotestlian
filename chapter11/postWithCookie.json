@@ -1,0 +1,26 @@
+[
+{
+  "description": "这是一个带有cookie信息的post请求",
+  "request": {
+    "uri": "/post/with/cookie",
+    "method": "post",
+    "cookies": {
+      "login": "true"
+    },
+    "json": {
+      "name": "xiaomaomi",
+      "age": "20"
+    }
+  },
+  "response": {
+    "status": 200,
+    "json": {
+      "xiaomaomi": "success",
+      "status": "1"
+    },
+    "headers": {
+      "content-type": "text/html;charset=gbk"
+    }
+  }
+}
+]

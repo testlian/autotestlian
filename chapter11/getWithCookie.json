@@ -1,0 +1,64 @@
+[
+  {
+    "description": "这是一个带有cookie信息的get请求",
+    "request": {
+      "uri":"/get/with/cookie",
+      "method": "get"
+    },
+    "response": {
+      "cookies": {
+        "login": "true"
+      },
+      "text": "恭喜你获得cookies信息",
+      "headers": {
+      "Content-Type": "text/html;charset=gbk"
+    }
+    }
+  },
+  {
+    "description": "这是一个需要cookie才可以进入的接口",
+    "request": {
+      "uri": "/go/with/cookie",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "status": "200",
+      "text": "您好，恭喜您携带cookie访问到我，你成功了",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+
+  },
+  {
+    "description": "这是一个带有cookie信息的post请求",
+    "request": {
+      "uri": "/post/with/cookie",
+      "method": "post",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "cookies": {
+        "login": "true"
+      },
+      "json": {
+        "name": "xiaomaomi",
+        "age": "20"
+      }
+    },
+    "response": {
+      "status": 200,
+      "json": {
+        "xiaomaomi": "success",
+        "status": "1"
+      },
+      "headers": {
+        "content-type": "text/html;charset=gbk"
+      }
+    }
+  }
+
+]

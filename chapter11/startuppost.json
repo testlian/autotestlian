@@ -1,0 +1,15 @@
+[
+  {
+    "description": "这是一个没有参数的post请求",
+    "request": {
+      "uri": "/postdemo",
+      "method": "post"
+    },
+    "response": {
+      "text": "这是第一个mock模拟的post请求",
+      "headers": {
+        "content-type": "text/html;charset=gbk"
+      }
+    }
+  }
+]

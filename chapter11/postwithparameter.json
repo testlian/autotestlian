@@ -1,0 +1,19 @@
+[
+  {
+    "description": "这是一个带有参数的post请求",
+    "request": {
+      "uri": "/postwithpara",
+      "method": "post",
+      "forms": {
+        "name": "lianlingfei",
+        "age": "20"
+      }
+        },
+    "response": {
+      "text": "我连玲飞又回来了",
+      "headers": {
+        "content-type": "text/html;charset=gbk"
+      }
+    }
+  }
+]

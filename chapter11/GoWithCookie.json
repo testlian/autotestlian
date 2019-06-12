@@ -1,0 +1,17 @@
+[
+  {
+    "description": "这是一个需要cookie才可以进入的接口",
+    "request": {
+      "uri": "/go/with/cookie",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+      "response": {
+        "status": "200",
+      "text": "您好，恭喜您携带cookie访问到我，你成功了"
+      }
+
+  }
+]

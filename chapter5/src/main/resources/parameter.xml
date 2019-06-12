@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="parametertest">
+    <test name="parameter">
+     <classes>
+         <parameter name="name" value="lianlingfei"/>
+         <parameter name="age" value="20"/>
+         <class name="com.office.lianlingfei.ParameterTest" />
+     </classes>
+    </test>
+</suite>

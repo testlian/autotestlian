@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="我的报告">
+    <test name=" 我的方法">
+        <classes>
+            <class name="com.office.wangyinan.ReportTest">
+                <method>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                    <include name="logDemo"/>
+                </method>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.office.wangyinan.ReportListener"/>
+    </listeners>
+</suite>
