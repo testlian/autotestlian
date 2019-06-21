@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter12" />
-        <module name="chapter9" />
+        <module name="InterfaceCode" />
+        <module name="chapter13" />
         <module name="chapter8" />
         <module name="chapter7" />
         <module name="chapter10" />
+        <module name="test" />
+        <module name="testFramelian" />
+        <module name="chapter9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -21,6 +25,9 @@
       <module name="chapter7" target="1.8" />
       <module name="chapter8" target="1.5" />
       <module name="chapter9" target="1.5" />
+      <module name="InterfaceCode" target="8" />
+      <module name="test" target="1.5" />
+      <module name="testFramelian" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

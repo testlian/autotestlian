@@ -1,0 +1,214 @@
+[INFO ] 2019-06-16 18:53:50 [main] com.course.Application - Starting Application on PC201403042019 with PID 5816 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 18:53:50 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 18:53:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 18:53:50 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 18:53:50 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 18:53:50 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 18:53:50 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 18:53:50 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6870 ms
+[INFO ] 2019-06-16 18:53:50 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 18:53:50 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 18:53:50 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 18:53:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 18:53:50 [main] com.course.Application - Started Application in 11.581 seconds (JVM running for 12.883)
+[INFO ] 2019-06-16 18:53:50 [http-nio-8899-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 18:53:50 [http-nio-8899-exec-2] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 18:53:50 [http-nio-8899-exec-2] o.s.web.servlet.DispatcherServlet - Completed initialization in 53 ms
+[INFO ] 2019-06-16 19:25:27 [main] com.course.Application - Starting Application on PC201403042019 with PID 5680 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 19:25:27 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 19:25:27 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 19:25:27 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:25:27 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 19:25:27 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 19:25:27 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 19:25:27 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 23787 ms
+[INFO ] 2019-06-16 19:25:27 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 19:25:27 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 19:25:27 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:25:27 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 19:25:27 [main] com.course.Application - Started Application in 34.278 seconds (JVM running for 45.059)
+[INFO ] 2019-06-16 19:28:07 [main] com.course.Application - Starting Application on PC201403042019 with PID 6180 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 19:28:07 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 19:28:07 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 19:28:07 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:28:07 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 19:28:07 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 19:28:07 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 19:28:07 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1389 ms
+[INFO ] 2019-06-16 19:28:07 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 19:28:07 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 19:28:07 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:28:07 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 19:28:07 [main] com.course.Application - Started Application in 3.698 seconds (JVM running for 4.942)
+[INFO ] 2019-06-16 19:28:07 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 19:28:07 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 19:28:07 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+[INFO ] 2019-06-16 19:33:15 [main] com.course.Application - Starting Application on PC201403042019 with PID 7020 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 19:33:15 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 19:33:15 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 19:33:15 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:33:15 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 19:33:15 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 19:33:15 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 19:33:15 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1792 ms
+[INFO ] 2019-06-16 19:33:15 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 19:33:15 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 19:33:15 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 19:33:15 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 19:33:15 [main] com.course.Application - Started Application in 3.704 seconds (JVM running for 4.935)
+[INFO ] 2019-06-16 19:33:15 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 19:33:15 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 19:33:15 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+[INFO ] 2019-06-16 20:03:07 [main] com.course.Application - Starting Application on PC201403042019 with PID 1568 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 20:03:07 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 20:03:07 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 20:03:07 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 20:03:07 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 20:03:07 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 20:03:07 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 20:03:07 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1721 ms
+[INFO ] 2019-06-16 20:03:07 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 20:03:07 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 20:03:07 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 20:03:07 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 20:03:07 [main] com.course.Application - Started Application in 3.578 seconds (JVM running for 8.647)
+[INFO ] 2019-06-16 20:18:24 [main] com.course.Application - Starting Application on PC201403042019 with PID 5920 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 20:18:24 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 20:18:24 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 20:18:24 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 20:18:24 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 20:18:24 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 20:18:24 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 20:18:24 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4391 ms
+[INFO ] 2019-06-16 20:18:24 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 20:18:24 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 20:18:24 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 20:18:24 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 20:18:24 [main] com.course.Application - Started Application in 8.726 seconds (JVM running for 14.173)
+[INFO ] 2019-06-16 20:18:24 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 20:18:24 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 20:18:24 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 52 ms
+[INFO ] 2019-06-16 20:18:24 [http-nio-8899-exec-1] com.course.controller.Demo - 这是一个log
+[INFO ] 2019-06-16 22:39:14 [main] com.course.Application - Starting Application on PC201403042019 with PID 6752 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 22:39:14 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 22:39:14 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 22:39:14 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:39:14 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 22:39:14 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 22:39:14 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 22:39:14 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 8678 ms
+[INFO ] 2019-06-16 22:39:14 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 22:39:14 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 22:39:14 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:39:14 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 22:39:14 [main] com.course.Application - Started Application in 19.051 seconds (JVM running for 24.311)
+[INFO ] 2019-06-16 22:39:14 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:39:14 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:39:14 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 55 ms
+[INFO ] 2019-06-16 22:45:22 [main] com.course.Application - Starting Application on PC201403042019 with PID 3884 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 22:45:22 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 22:45:22 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 22:45:22 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:45:22 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 22:45:22 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 22:45:22 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 22:45:22 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1359 ms
+[INFO ] 2019-06-16 22:45:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 22:45:22 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 22:45:22 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:45:22 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 22:45:22 [main] com.course.Application - Started Application in 3.538 seconds (JVM running for 4.933)
+[INFO ] 2019-06-16 22:45:22 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:45:22 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:45:22 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+[INFO ] 2019-06-16 22:52:57 [main] com.course.Application - Starting Application on PC201403042019 with PID 4800 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 22:52:57 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 22:52:57 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 22:52:57 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:52:57 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 22:52:57 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 22:52:57 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 22:52:57 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2212 ms
+[INFO ] 2019-06-16 22:52:57 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 22:52:57 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 22:52:57 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:52:57 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 22:52:57 [main] com.course.Application - Started Application in 3.948 seconds (JVM running for 5.283)
+[INFO ] 2019-06-16 22:52:57 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:52:57 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:52:57 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+[INFO ] 2019-06-16 22:56:25 [main] com.course.Application - Starting Application on PC201403042019 with PID 7080 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 22:56:25 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 22:56:25 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 22:56:25 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:56:25 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 22:56:25 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 22:56:25 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 22:56:25 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2220 ms
+[INFO ] 2019-06-16 22:56:25 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 22:56:25 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 22:56:25 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 22:56:25 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 22:56:25 [main] com.course.Application - Started Application in 4.031 seconds (JVM running for 5.359)
+[INFO ] 2019-06-16 22:56:25 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:56:25 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 22:56:25 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+[INFO ] 2019-06-16 23:24:49 [main] com.course.Application - Starting Application on PC201403042019 with PID 4908 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 23:24:49 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 23:24:49 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 23:24:49 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:24:49 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 23:24:49 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 23:24:49 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 23:24:49 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1358 ms
+[INFO ] 2019-06-16 23:24:49 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 23:24:49 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 23:24:49 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:24:49 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 23:24:49 [main] com.course.Application - Started Application in 4.025 seconds (JVM running for 5.228)
+[INFO ] 2019-06-16 23:24:49 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 23:24:49 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 23:24:49 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+[INFO ] 2019-06-16 23:41:14 [main] com.course.Application - Starting Application on PC201403042019 with PID 6212 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 23:41:14 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 23:41:14 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 23:41:14 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:41:14 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 23:41:14 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 23:41:14 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 23:41:14 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1941 ms
+[INFO ] 2019-06-16 23:41:14 [main] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 2019-06-16 23:43:48 [main] com.course.Application - Starting Application on PC201403042019 with PID 1472 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 23:43:48 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 23:43:48 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 23:43:48 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:43:48 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 23:43:48 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 23:43:48 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 23:43:48 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1375 ms
+[INFO ] 2019-06-16 23:43:48 [main] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 2019-06-16 23:45:06 [main] com.course.Application - Starting Application on PC201403042019 with PID 7084 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 23:45:06 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 23:45:06 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 23:45:06 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:45:06 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 23:45:06 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 23:45:06 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 23:45:06 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1980 ms
+[INFO ] 2019-06-16 23:45:06 [main] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 2019-06-16 23:47:58 [main] com.course.Application - Starting Application on PC201403042019 with PID 2156 (started by Administrator in D:\Program Files\Git\depository\autotestlian)
+[INFO ] 2019-06-16 23:47:58 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2019-06-16 23:47:58 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2019-06-16 23:47:58 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:47:58 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-06-16 23:47:58 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+[INFO ] 2019-06-16 23:47:58 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-06-16 23:47:58 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1887 ms
+[INFO ] 2019-06-16 23:47:58 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-06-16 23:47:58 [main] o.s.s.c.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+[INFO ] 2019-06-16 23:47:58 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2019-06-16 23:47:58 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2019-06-16 23:47:58 [main] com.course.Application - Started Application in 3.917 seconds (JVM running for 5.221)
+[INFO ] 2019-06-16 23:47:58 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-06-16 23:47:58 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-06-16 23:47:58 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms

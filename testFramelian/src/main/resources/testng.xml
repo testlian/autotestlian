@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="用户管理系统测试套件">
+   <test name="用户管理系统测试用例">
+       <classes>
+           <class name="com.coursemanage.cases.LoginTest">
+               <methods>
+                   <include name="loginTrue"/>
+                   <include name="loginFalse1"/>
+                   <include name="loginFalse2"/>
+               </methods>
+
+           </class>
+           <class name="com.coursemanage.cases.AddUser">
+               <methods>
+                   <include name="addUser"/>
+               </methods>
+           </class>
+           <class name="com.coursemanage.cases.GetUserInfo">
+               <methods>
+                   <include name="getUserInfo"/>
+               </methods>
+           </class>
+           <class name="com.coursemanage.cases.GetUserList">
+               <methods>
+                   <include name="getUserList"/>
+               </methods>
+           </class>
+           <class name="com.coursemanage.cases.UpdateUserInfo">
+               <methods>
+                   <include name="updateUser"/>
+                   <include name="deleteUser"/>
+               </methods>
+           </class>
+       </classes>
+   </test>
+    <listeners>
+        <listener class-name="com.coursemanage.config.MyListener"/>
+    </listeners>
+</suite>

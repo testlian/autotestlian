@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.coursemanage.model">
+    <select id="loginCase" parameterType="Integer" resultType="com.coursemanage.model.LoginCase">
+        select * from logincase where id=#{id};
+    </select>
+    <select id="addUserCase" parameterType="Integer" resultType="com.coursemanage.model.addUserCase">
+        select * from addusercase where id=#{id};
+    </select>
+    <select id="getUserInfoCase" parameterType="Integer" resultType="com.coursemanage.model.getUserInfoCase">
+        select * from getuserinfocase where id=#{id};
+    </select>
+    <select id="getUserListCase" parameterType="Integer" resultType="com.coursemanage.model.getUserListCase">
+        select * from getuserlistcase where id=#{id};
+    </select>
+    <select id="updateUser" parameterType="Integer" resultType="com.coursemanage.model.UpdateUserCase">
+        select * from updateusercase where id=#{id};
+    </select>
+    <select id="getUserInfo" parameterType="com.coursemanage.model.getUserInfoCase" resultType="com.coursemanage.model.User">
+        select * from user where id=#{userid}
+    </select>
+    <select id="getUserList" parameterType="com.coursemanage.model.getUserListCase" resultType="com.coursemanage.model.User">
+        select * from user where age=#{age} and sex=#{sex};
+    </select>
+    <select id="getUpdateUserInfo" parameterType="com.coursemanage.model.UpdateUserCase" resultType="com.coursemanage.model.User">
+        select * from user where id=#{userid};
+    </select>
+</mapper>
